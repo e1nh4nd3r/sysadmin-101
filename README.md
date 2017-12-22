@@ -1,6 +1,25 @@
 # sysadmin-101
 A repository of useful exercises to learn the very basics of Systems Administration.
 
+# Requirements
+* A computer capable of "virtualization" (i.e. running a virtual machine)
+* Administrative (aka "Admin" or "root") access to your computer
+* An internet connection (large parts of this documentation will require downloading and installing software from the internet)
+
+# Disclaimer
+I, the original author, as well as any contributor will not be personally liable or responsible for irreparable damage to your computer up to and including:
+* Data such as photos, videos, music, documents, etc. stored on your computer(s)
+* Retention ("backup") of aforementioned data
+* OS settings or configuration
+* Any related/applicable changes to your computer made during the course of engaging in these exercises
+
+That being said: I'm envisioning this as a community effort.  As a result, I intend to make Good Faith Efforts to help people who ask for it.
+
+In short:
+* Backup your data (external hard-drives are your friend)
+* Have patience (things inevitably _will_ break or go wrong)
+* Ask for help if you need it (everyone needs help once in a while)
+
 ## Who is this information/documentation/repository for?
 A few friends had been asking me about where they might start to learn the basics of how to become a Systems Administrator really get their career in technology moving.  A couple of them have been in retail and customer-facing roles and are looking to move out of that role.  In authoring this, I want to enable them as well as anyone else looking to make a move or improve their skills:
 
