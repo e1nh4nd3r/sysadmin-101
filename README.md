@@ -35,15 +35,4 @@ Recommendations:
 ## How do you propose to do this?
 By breaking down the process of learning Systems Administration into smaller exercises with specific goals and proficiencies, participants can choose the topics or points they wish to familiarize themselves with and work at their own pace.
 
-## How can I contribute?
-### Discussion
-Ask questions in the "Issues" section of this repository:
-
-* Create a new Issue
-* Label it with the "Question" Label
-* Submit the issue and discuss in the thread
-
-### Pull Requests
-* File an Issue relating to the intended change
-* Make changes on a fork with a branch
-* Submit a Pull Request (PR) to merge your changes from your fork upstream
+# [Contribution Guidelines](CONTRIBUTE.md)
