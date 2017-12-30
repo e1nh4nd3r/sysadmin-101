@@ -42,13 +42,4 @@ The other reason being that flexing my writing ability through authoring public-
 ## How do you propose to do this?
 By breaking this topic down into two (perhaps more in the future) separate tracks, Linux and Windows, I feel as though not only can people choose the path(s) they want to follow, they can also work at their own pace.
 
-## How can I contribute?
-Discussion in the repo's Issues section is a good place to start.  Feel free to submit Issues for consideration and discussion!
-
-Basically:
-
-1. File an Issue
-1. Make changes on a fork
-1. Submit a Pull Request (PR)
-
-Thanks!
+# [Contribution Guidelines](CONTRIBUTE.md)
